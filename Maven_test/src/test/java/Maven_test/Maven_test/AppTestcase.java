@@ -27,6 +27,8 @@ public class AppTestcase
     {
         return new TestSuite( AppTestcase.class );
         System.out.println("Hello  world");
+        System.out.println("Hello  America");
+        System.out.println("Hello  school");
     }
 
     /**
